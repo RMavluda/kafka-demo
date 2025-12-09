@@ -1,5 +1,3 @@
-
-```md
 # Kafka Demo with Spring Boot
 
 A simple **Spring Boot Kafka demo project** used to learn and test **Apache Kafka consumer functionality** before integrating Kafka into a real CRUD application.
