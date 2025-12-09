@@ -186,5 +186,3 @@ After validation, Kafka functionality was integrated into the main **Spring Boot
 * This project is intentionally kept simple for learning purposes
 
 ````
-
----
