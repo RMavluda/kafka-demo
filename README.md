@@ -184,5 +184,3 @@ After validation, Kafka functionality was integrated into the main **Spring Boot
 
 * Kafka broker must be running before starting the application
 * This project is intentionally kept simple for learning purposes
-
-````
